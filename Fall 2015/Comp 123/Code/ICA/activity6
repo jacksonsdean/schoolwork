@@ -1,0 +1,13 @@
+# first we’ll assign three variables to values
+x = 25
+y = 30
+s = 'boolean'
+# now we’ll ask questions about them
+x <= y #is x less than or equal to y, True
+x + 5 > y #is x+5 greater than y, False
+x % 2 == 0 #is x divisble by 2, False
+s > 'bodwaddle' # is the unicode value of the first character in s greater than 'b', True
+len(s) == 7 #is the length of s the same as 7, True
+'e' in s #is e in boolean, True
+'c' in s #is c in boolean, False
+'boo' in s #is 'boo' in boolean, True
